@@ -6,7 +6,9 @@ This document describes changes between each past release.
 11.2.0 (unreleased)
 -------------------
 
-- Nothing changed yet.
+**Bug fixes**
+
+- Fix `record:create` not taken into account from settings. (Fixes #1813)
 
 
 11.1.0 (2018-10-25)
